@@ -1,4 +1,6 @@
-# 🎅 adventJS 2021 [![Test status](https://img.shields.io/github/workflow/status/merino-jorge/adventjs/test?style=flat-square&logo=github&label=tests)](https://github.com/merino-jorge/adventjs/actions) [![en](https://img.shields.io/badge/lang-en-blue.svg?style=flat-square)](https://github.com/merino-jorge/adventJS/blob/master/README.md)
+<p align="right"><a href="https://github.com/merino-jorge/adventJS/blob/master/README.md">English</a> | Español</p>
+
+# 🎅 adventJS 2021 [![Test status](https://img.shields.io/github/workflow/status/merino-jorge/adventjs/test?style=flat-square&logo=github&label=tests)](https://github.com/merino-jorge/adventjs/actions)
 
 Mis soluciones a [25 días de retos con JavaScript](https://adventjs.dev/) de [@midudev](https://github.com/midudev)
 
