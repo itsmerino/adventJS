@@ -1,4 +1,4 @@
-import daysToXmas from './solution.js'
+import daysToXmas from './solution'
 
 const cases = [
   {input: new Date('Dec 1, 2021'), expected: 24},

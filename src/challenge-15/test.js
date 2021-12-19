@@ -1,4 +1,4 @@
-import checkSledJump from './solution.js'
+import checkSledJump from './solution'
 
 const cases = [
   {input: [1, 2, 3, 2, 1], expected: true},

@@ -1,4 +1,4 @@
-import shouldBuyFidelity from './solution.js'
+import shouldBuyFidelity from './solution'
 
 const cases = [
   {input: 1, expected: false},

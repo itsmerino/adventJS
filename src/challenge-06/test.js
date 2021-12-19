@@ -1,4 +1,4 @@
-import sumPairs from './solution.js'
+import sumPairs from './solution'
 
 const cases = [
   {

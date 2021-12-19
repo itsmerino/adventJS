@@ -1,4 +1,4 @@
-import maxProfit from './solution.js'
+import maxProfit from './solution'
 
 const cases = [
   {input: [39, 18, 29, 25, 34, 32, 5], expected: 16},

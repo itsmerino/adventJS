@@ -1,4 +1,4 @@
-import listGifts from './solution.js'
+import listGifts from './solution'
 
 const cases = [
   {

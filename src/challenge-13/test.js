@@ -1,4 +1,4 @@
-import wrapGifts from './solution.js'
+import wrapGifts from './solution'
 
 const cases = [
   {input: ['📷', '⚽️'], expected: ['****', '*📷*', '*⚽️*', '****']},

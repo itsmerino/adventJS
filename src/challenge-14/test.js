@@ -1,4 +1,4 @@
-import missingReindeer from './solution.js'
+import missingReindeer from './solution'
 
 const cases = [
   {input: [0, 2, 3], expected: 1},

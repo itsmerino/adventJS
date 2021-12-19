@@ -1,4 +1,4 @@
-import contains from './solution.js'
+import contains from './solution'
 
 const cases = [
   {

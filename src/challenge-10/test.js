@@ -1,4 +1,4 @@
-import getCoins from './solution.js'
+import getCoins from './solution'
 
 const cases = [
   {input: 51, expected: [1, 0, 0, 0, 0, 1]},

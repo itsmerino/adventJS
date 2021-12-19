@@ -1,4 +1,4 @@
-import isValid from './solution.js'
+import isValid from './solution'
 
 const cases = [
   {input: 'bici coche (balón) bici coche peluche', expected: true},

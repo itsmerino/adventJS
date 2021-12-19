@@ -1,4 +1,4 @@
-import createXmasTree from './solution.js'
+import createXmasTree from './solution'
 
 const cases = [
   {input: 1, expected: '*\n#\n#'},

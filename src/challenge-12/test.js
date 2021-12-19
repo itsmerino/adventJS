@@ -1,4 +1,4 @@
-import getMinJump from './solution.js'
+import getMinJump from './solution'
 
 const cases = [
   {input: [5, 3, 6, 7, 9], expected: 4},

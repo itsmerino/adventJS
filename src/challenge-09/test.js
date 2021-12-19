@@ -1,4 +1,4 @@
-import groupBy from './solution.js'
+import groupBy from './solution'
 
 const cases = [
   {

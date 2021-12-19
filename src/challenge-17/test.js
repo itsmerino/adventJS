@@ -1,4 +1,4 @@
-import countPackages from './solution.js'
+import countPackages from './solution'
 
 const cases = [
   {

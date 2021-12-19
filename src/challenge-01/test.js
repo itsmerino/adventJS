@@ -1,4 +1,4 @@
-import countSheeps from './solution.js'
+import countSheeps from './solution'
 
 const cases = [
   {

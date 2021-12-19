@@ -1,4 +1,4 @@
-import decodeNumber from './solution.js'
+import decodeNumber from './solution'
 
 const cases = [
   {input: '...', expected: 3},

@@ -1,4 +1,4 @@
-import fixFiles from './solution.js'
+import fixFiles from './solution'
 
 const cases = [
   {
