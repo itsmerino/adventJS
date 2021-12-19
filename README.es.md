@@ -1,4 +1,4 @@
-<p align="right"><a href="https://github.com/merino-jorge/adventJS/blob/master/README.md">English</a> | Español</p>
+<p align="right"><a href="https://github.com/merino-jorge/adventJS/blob/master/README.md">Inglés</a> | Español</p>
 
 # 🎅 adventJS 2021 [![Test status](https://img.shields.io/github/workflow/status/merino-jorge/adventjs/tests?style=flat-square&logo=github&label=tests)](https://github.com/merino-jorge/adventjs/actions)
 
@@ -26,6 +26,7 @@ Mis soluciones a [25 días de retos con JavaScript](https://adventjs.dev/) de [@
 | 16  | [Descifrando los números...](src/challenge-16/README.md)                   |       🟢       | [Ver](src/challenge-16/solution.js) | [Ver](src/challenge-16/test.js) |
 | 17  | [La locura de enviar paquetes en esta época](src/challenge-17/README.md)   |       🔴       | [Ver](src/challenge-17/solution.js) | [Ver](src/challenge-17/test.js) |
 | 18  | [El sistema operativo de Santa Claus](src/challenge-18/README.md)          |       🟢       | [Ver](src/challenge-18/solution.js) | [Ver](src/challenge-18/test.js) |
+| 19  | [¿Qué deberíamos aprender en Platzi?](src/challenge-19/README.md)          |       🟠       | [See](src/challenge-19/solution.js) | [See](src/challenge-19/test.js) |
 
 ## 💻️ Inicio rápido
 
