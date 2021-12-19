@@ -1,6 +1,6 @@
 export default function fixFiles(files) {
-  let result = []
-  let ocurrences = []
+  const result = []
+  const ocurrences = {}
 
   files.forEach(file => {
     const isRepeated = ocurrences[file] >= 1
