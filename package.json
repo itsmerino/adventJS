@@ -2,21 +2,14 @@
   "name": "adventjs",
   "version": "1.0.0",
   "type": "module",
-  "description": "Mis soluciones a 25 días de retos con JavaScript de @midudev",
+  "private": true,
   "keywords": [
     "adventJS"
   ],
   "author": "merino-jorge",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/merino-jorge/adventJS.git"
-  },
-  "bugs": {
-    "url": "https://github.com/merino-jorge/adventJS/issues"
-  },
-  "homepage": "https://github.com/merino-jorge/adventJS#readme",
   "scripts": {
+    "check:format": "prettier --check .",
     "fix:format": "prettier --check --write --ignore-unknown .",
     "test": "jest"
   },
@@ -24,9 +17,7 @@
     "@babel/cli": "^7.16.0",
     "@babel/core": "^7.16.5",
     "@babel/preset-env": "^7.16.5",
+    "jest": "^27.4.5",
     "prettier": "^2.5.1"
-  },
-  "dependencies": {
-    "jest": "^27.4.5"
   }
 }
