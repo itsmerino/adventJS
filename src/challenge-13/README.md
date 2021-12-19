@@ -10,7 +10,7 @@ Si el array está vacío, devuelve un array vacío
 Los regalos son emojis 🎁... por lo que tenlo en cuenta a la hora de contar su longitud...
 
 ```javascript
-wrapGifts(['📷', '⚽️']);
+wrapGifts(['📷', '⚽️'])
 /* Resultado:
 [ '****',
   '*📷*',
@@ -19,7 +19,7 @@ wrapGifts(['📷', '⚽️']);
 ]
 */
 
-wrapGifts(['🏈🎸', '🎮🧸']);
+wrapGifts(['🏈🎸', '🎮🧸'])
 /* Resultado:
 [ '******',
   '*🏈🎸*',
@@ -28,7 +28,7 @@ wrapGifts(['🏈🎸', '🎮🧸']);
 ]
 */
 
-wrapGifts(['📷']);
+wrapGifts(['📷'])
 /* Resultado:
 [ '****',
   '*📷*',
