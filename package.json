@@ -9,8 +9,8 @@
   "author": "merino-jorge",
   "license": "ISC",
   "scripts": {
-    "check:format": "prettier --check .",
-    "fix:format": "prettier --check --write --ignore-unknown .",
+    "format:check": "prettier --check .",
+    "format:fix": "prettier --check --write --ignore-unknown .",
     "test": "jest"
   },
   "devDependencies": {
@@ -19,5 +19,6 @@
     "@babel/preset-env": "^7.16.5",
     "jest": "^27.4.5",
     "prettier": "^2.5.1"
-  }
+  },
+  "dependencies": {}
 }
