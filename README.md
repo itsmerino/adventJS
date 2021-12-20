@@ -29,6 +29,7 @@ My solutions to [25 days of JavaScript challenges](https://adventjs.dev/) by [@m
 | 17  | [La locura de enviar paquetes en esta época](src/challenge-17/README.md)   |       🔴       | [See](src/challenge-17/solution.js) | [See](src/challenge-17/test.js) |
 | 18  | [El sistema operativo de Santa Claus](src/challenge-18/README.md)          |       🟢       | [See](src/challenge-18/solution.js) | [See](src/challenge-18/test.js) |
 | 19  | [¿Qué deberíamos aprender en Platzi?](src/challenge-19/README.md)          |       🟠       | [See](src/challenge-19/solution.js) | [See](src/challenge-19/test.js) |
+| 20  | [¿Una carta de pangramas? ¡QUÉ!](src/challenge-20/README.md)               |       🟢       | [See](src/challenge-20/solution.js) | [See](src/challenge-20/test.js) |
 
 ## 💻️ Quick start
 
