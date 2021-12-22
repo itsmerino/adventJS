@@ -30,6 +30,7 @@ Mis soluciones a [25 días de retos con JavaScript](https://adventjs.dev/) de [@
 | 18  | [El sistema operativo de Santa Claus](src/challenge-18/README.md)          |       🟢       | [Ver](src/challenge-18/solution.js) | [Ver](src/challenge-18/test.js) |
 | 19  | [¿Qué deberíamos aprender en Platzi?](src/challenge-19/README.md)          |       🟠       | [Ver](src/challenge-19/solution.js) | [Ver](src/challenge-19/test.js) |
 | 20  | [¿Una carta de pangramas? ¡QUÉ!](src/challenge-20/README.md)               |       🟢       | [Ver](src/challenge-20/solution.js) | [Ver](src/challenge-20/test.js) |
+| 21  | [La ruta con los regalos](src/challenge-21/README.md)                      |       🔴       | [Ver](src/challenge-21/solution.js) | [Ver](src/challenge-21/test.js) |
 
 ## 💻️ Inicio rápido
 
