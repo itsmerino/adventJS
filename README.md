@@ -31,6 +31,7 @@ My solutions to [25 days of JavaScript challenges](https://adventjs.dev/) by [@m
 | 19  | [¿Qué deberíamos aprender en Platzi?](src/challenge-19/README.md)          |       🟠       | [See](src/challenge-19/solution.js) | [See](src/challenge-19/test.js) |
 | 20  | [¿Una carta de pangramas? ¡QUÉ!](src/challenge-20/README.md)               |       🟢       | [See](src/challenge-20/solution.js) | [See](src/challenge-20/test.js) |
 | 21  | [La ruta con los regalos](src/challenge-21/README.md)                      |       🔴       | [See](src/challenge-21/solution.js) | [See](src/challenge-21/test.js) |
+| 22  | [¿Cuántos adornos necesita el árbol?](src/challenge-22/README.md)          |       🟠       | [See](src/challenge-22/solution.js) | [See](src/challenge-22/test.js) |
 
 ## 💻️ Quick start
 
