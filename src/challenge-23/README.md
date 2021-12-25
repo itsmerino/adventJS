@@ -29,6 +29,20 @@ O -> U
 N -> FALLO
 */
 
+const from = 'XBOX'
+const to   = 'XXBO'
+const canReconfigure(from, to) // false
+/* no se puede hacer la transformación:
+X -> X
+B -> X (FALLO, no mantiene el orden de transformación y la B no puede asignarse a la X que ya se asignó a otra)
+O -> B
+X -> O (FALLO, la X no puede asignarse a la O que ya se asignó a la X)
+*/
+
+const from = 'XBOX'
+const to   = 'XOBX'
+const canReconfigure(from, to) // true
+
 const from = 'MMM'
 const to   = 'MID'
 cons canReconfigure(from, to) // false
