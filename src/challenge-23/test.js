@@ -17,6 +17,20 @@ const cases = [
   },
   {
     input: {
+      from: 'XBOX',
+      to: 'XXBO',
+    },
+    expected: false,
+  },
+  {
+    input: {
+      from: 'XBOX',
+      to: 'XOBX',
+    },
+    expected: true,
+  },
+  {
+    input: {
       from: 'MMM',
       to: 'MID',
     },
