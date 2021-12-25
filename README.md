@@ -34,6 +34,7 @@ My solutions to [25 days of JavaScript challenges](https://adventjs.dev/) by [@m
 | 22  | [¿Cuántos adornos necesita el árbol?](src/challenge-22/README.md)                               |       🟠       | [See](src/challenge-22/solution.js) | [See](src/challenge-22/test.js) |
 | 23  | [¿Puedes reconfigurar las fábricas para no parar de crear regalos?](src/challenge-23/README.md) |       🟣       | [See](src/challenge-23/solution.js) | [See](src/challenge-23/test.js) |
 | 24  | [Comparando árboles de Navidad](src/challenge-24/README.md)                                     |       🟠       | [See](src/challenge-24/solution.js) | [See](src/challenge-24/test.js) |
+| 25  | [El último juego y hasta el año que viene 👋](src/challenge-25/README.md)                       |       🟠       | [See](src/challenge-25/solution.js) | [See](src/challenge-25/test.js) |
 
 ## 💻️ Quick start
 
